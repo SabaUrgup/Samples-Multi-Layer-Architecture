@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\bin\Debug\net5.0\AplicationCore.deps.json
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\bin\Debug\net5.0\AplicationCore.dll
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\bin\Debug\net5.0\ref\AplicationCore.dll
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\bin\Debug\net5.0\AplicationCore.pdb
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\AplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\AplicationCore.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\AplicationCore.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\AplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\AplicationCore.dll
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\ref\AplicationCore.dll
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\AplicationCore.pdb
+C:\Users\DELL\Desktop\Özbelsan\Kurumsal Mimariler\DeviceSolution\AplicationCore\obj\Debug\net5.0\AplicationCore.csproj.AssemblyReference.cache
